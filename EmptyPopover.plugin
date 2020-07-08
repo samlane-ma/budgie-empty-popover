@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=empty_popover
+Name=Empty Popover
+Description=Empty Popover Box
+Authors=
+Copyright=
+Website=
+Icon=ubuntu-budgie-symbolic
