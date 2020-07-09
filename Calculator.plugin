@@ -2,8 +2,8 @@
 Loader=python3
 Module=calculator
 Name=Calculator
-Description=Calculaor
-Authors=
-Copyright=
-Website=
+Description=This tiny applet allows you to embed a tiny calculator in your budgie-panel
+Authors= Kashif Ahmed
+Copyright=GNU All Permissive
+Website= https://quora.com/Kashif-Ahmed-367/
 Icon=gnome-calculator
