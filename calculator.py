@@ -5,9 +5,11 @@ import os
 
 
 """
-Budgie EmptyPopover
+Budgie Calculator
 
-Author: Heavily Modified from CountDown applet by Jacob Vlijm
+Author: Kashif Ahmed
+
+Heavily Modified from CountDown applet by Jacob Vlijm
 Copyright © 2017-2020 Ubuntu Budgie Developers
 Website=https://ubuntubudgie.org
 This program is free software: you can redistribute it and/or modify it under
